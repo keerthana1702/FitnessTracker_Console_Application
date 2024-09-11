@@ -28,10 +28,4 @@ Sprint 2
 1. As a Client, I should be able to check my qualification by entering a few basic details like age,
 weight, height, and BMI for any of the programs
 2. As a Client, I should be able to apply to any program if I pass the qualification test.
-## Instructions: -1. Use Proper design patters to make the application more effective
-2. Create schema diagram for the tables created and share the SQL file
-3. Please include the queries executed in the sql file
-4. upload sql along with your project.
-5. Please use proper testing cases to test the application written
-6. Use coding standards and comments in the application.
-7. Use proper interfaces and classes combo to create the application.
+
